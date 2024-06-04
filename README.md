@@ -13,6 +13,8 @@ Start the NestJS server with either `npm run start` or `nest start`.
 Then use Postman, Thunderclient for VSCode, or any other API client to hit the API.
 The API runs on `localhost:3000`.
 
+Swagger API documentation can be found at `/bank/docs`.
+
 ## Testing
 Each module has its own set of unit tests, aside from the controllers. The controllers are tested within the integration tests.
 
